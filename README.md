@@ -1,3 +1,6 @@
+### My Contribution
+My contribution is in time_calculator.py. The rest files are created by freeCodeCamp.org.
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
